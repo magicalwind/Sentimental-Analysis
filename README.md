@@ -24,3 +24,6 @@ Build Naive Bi-LSTM with regularization for training and evaluation
 
 - ## Training with CNN.ipynb
 Follow the same basic workflow. Implement a CNN encoder to simulate n-grams tokenization, which refers to [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882) and [Convolutional Sentiment Analysis](https://github.com/bentrevett/pytorch-sentiment-analysis/blob/master/4%20-%20Convolutional%20Sentiment%20Analysis.ipynb).
+
+- ## Word vector of Glove
+Play with the word vectors in the Glove embedding space. Compare the similarity of different words and find their semantic analogy. 
